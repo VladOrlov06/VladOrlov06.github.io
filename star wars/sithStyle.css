@@ -1,0 +1,14 @@
+body{
+	background-color: black;
+}
+p{
+	color:white;
+	margin: 4% 0% 0% 2.5%;
+}
+div{
+	display:flex;
+	padding:2.5%;
+}
+img{
+	width: 15%;
+}

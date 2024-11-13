@@ -1,0 +1,40 @@
+#logo{
+	width:25%;
+}
+#logoBox{
+	text-align: center;
+}
+body{
+	background-color: #020102;
+}
+#box{
+	display:block;
+}
+#button1{
+	width:80%;
+	
+}
+h3{
+	color:white;
+}
+div{
+	text-align: center;
+	
+}
+#button2{
+	width:80%;
+	
+}
+#button3{
+	width:80%;
+	
+}
+h3{
+  font-family: "Yeseva One", serif;
+  font-weight: 45%;
+  font-size: 145%;
+  font-style: normal;
+}
+#container{
+	display:flex;
+}
